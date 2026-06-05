@@ -1,0 +1,17 @@
+{
+  "start_year": 2011,
+  "start_month": 9,
+  "start_day": 2,
+  "start_hour": 0,
+  "end_year": 2011,
+  "end_month": 9,
+  "end_day": 3,
+  "end_hour": 18,
+  "period_in_hr": 6,
+  "lat_min": 20.0,
+  "lat_max": 50.0,
+  "lon_min": -90.0,
+  "lon_max": -30.0,
+  "sfc_fields": "z/lsm/sst/instantaneous_eastward_turbulent_surface_stress/instantaneous_northward_turbulent_surface_stress/forecast_surface_roughness/boundary_layer_height/friction_velocity",
+  "single_grib_file": true
+}
