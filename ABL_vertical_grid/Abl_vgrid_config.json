@@ -1,0 +1,9 @@
+{
+  "jpka": 50,
+  "hmax": 2000.0,
+  "hc": 400.0,
+  "theta_s": 2.5,
+  "force_z1": true,
+  "z1": 10.0,
+  "outfile": "/home/flori/ABL3d/abl_data/dom_cfg_abl.nc"
+}
